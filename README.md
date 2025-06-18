@@ -15,6 +15,7 @@ An interactive platform for practicing world capitals and geography.
 
 ## 🧪 Testing
 
+
 - Run `npm test` to execute the test suite.
 - Run `npm run lint` for linting.
 - Run `npx prettier --check .` for formatting checks.

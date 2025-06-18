@@ -10,6 +10,7 @@ export interface City {
 
 export const cities: City[] = [
   // Pakket 1
+
   {
     name: 'Parijs',
     country: 'Frankrijk',
@@ -460,6 +461,7 @@ export const cities: City[] = [
     lng: 114.1694,
     continent: 'Azië',
   },
+
 
   // Pakket 2
   {
