@@ -67,6 +67,10 @@ npm run build
 npm run deploy
 ```
 
+When deploying with a custom domain (e.g. `https://topografiewereld.nl`), keep
+`base: '/'` in `vite.config.ts`. If you deploy to a subpath instead, adjust
+`base` to match that path so asset URLs resolve correctly.
+
 ## Technologieën
 
 - React
